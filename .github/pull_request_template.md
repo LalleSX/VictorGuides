@@ -7,7 +7,7 @@
  
  
  
- ### Post a screenshot of the email
+ ### Post a screenshot of the email/s
  
  
 
