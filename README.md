@@ -1,10 +1,7 @@
-# emailSpamList
-A list that contains email spammers
+# Victor Guide's
 
-Feel free to submit a email that spams in your inbox.
+Victors awsome guides to fixing probmlems on Linux (distro may varry)
 
-***Do so via pull request***
 
-The submitssion must contain a screenshot of the spamming email/s to avoid trolls 
 
 
