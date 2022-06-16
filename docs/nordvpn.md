@@ -23,6 +23,6 @@ The link should start with "nordvpn://"
 
   ### Nordvpn WHOOPS
   ```
-  sudo systemctl start nordvpnd.socket && sudo systemctl enable nordvpnd.socket
-	sudo systemctl start nordvpnd.service && sudo systemctl enable nordvpnd.service
+sudo systemctl start nordvpnd.socket && sudo systemctl enable nordvpnd.socket
+sudo systemctl start nordvpnd.service && sudo systemctl enable nordvpnd.service
 ```
