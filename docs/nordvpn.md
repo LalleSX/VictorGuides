@@ -13,7 +13,7 @@ First go on the link that i gives you
 
 Then type this command:
 
-´nordvpn login --callback URL' 
+`nordvpn login --callback URL` 
   
   The URL is the one you copied
 ***DONT TYPE URL PASTE LINK THERE***
@@ -22,6 +22,7 @@ The link should start with "nordvpn://"
 
 
   ### Nordvpn WHOOPS
-  
+  ```
   sudo systemctl start nordvpnd.socket && sudo systemctl enable nordvpnd.socket
 	sudo systemctl start nordvpnd.service && sudo systemctl enable nordvpnd.service
+```
